@@ -1,5 +1,6 @@
 
 <!-- README.txt -->
+*Generated entirely by ChatGPT*
 My Science Blog (Retro Style)
 
 Overview:
